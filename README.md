@@ -1,6 +1,6 @@
 ### Hello 👋 , I'm Shubham.
 
-
+![](https://komarev.com/ghpvc/?username=Shubhamkr2610)
 
 - 🌱 I’m currently learning React
 - 😄 Pronouns: He/His
