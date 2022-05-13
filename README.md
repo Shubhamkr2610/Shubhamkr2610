@@ -1,7 +1,8 @@
-### Hello 👋 , I'm Shubham.
+### Hello there! 👋 .
 
 ![](https://komarev.com/ghpvc/?username=Shubhamkr2610)
 
+- 📌 I am Shubham, currently learning Web Developement from neogcamp and building exciting real-world projects.
 - 🌱 I’m currently learning React
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Listen music :notes: while coding :computer:
@@ -29,6 +30,9 @@
 <a href="https://twitter.com/shubhamkr_26"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shubham-kumar-6625b8217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/i_subhu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://hashnode.com/@shubhamkr2610"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://web.telegram.org/k/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+ <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 -----
