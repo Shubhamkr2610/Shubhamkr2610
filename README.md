@@ -36,8 +36,9 @@ I keeps sharing my learning via blog writing, Twitter threads, and LinkedIn post
   <tr>
     <td width="50%">
       
-- [Hoisting and Temporal Dead Zone In Javascript](https://medium.com/@shubham1bcabnc18/hoisting-and-temporal-dead-zone-in-javascript-ea19b8f80fb0)
-- [Semantic Html and Non-Semantic Html](https://medium.com/@shubham1bcabnc18/semantic-html-and-non-semantic-html-7a823b880a9c)
+- [How to find the length of an array? ](https://medium.com/@shubham1bcabnc18/how-to-find-the-length-of-an-array-javascript-has-trust-issues-4a1274004a23)     
+- [Hoisting and Temporal Dead Zone In Javascript.](https://medium.com/@shubham1bcabnc18/hoisting-and-temporal-dead-zone-in-javascript-ea19b8f80fb0)
+- [Semantic Html and Non-Semantic Html.](https://medium.com/@shubham1bcabnc18/semantic-html-and-non-semantic-html-7a823b880a9c)
 - [What is the difference between null and undefined in JavaScript?](https://medium.com/@shubham1bcabnc18/what-is-the-difference-between-null-and-undefined-in-javascript-7634efecf1ad)
 </td>
   </tr>
